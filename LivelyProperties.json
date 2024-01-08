@@ -1,0 +1,22 @@
+{
+  "lineColor": {
+    "text": "Lines",
+    "type": "color",
+    "value": "#0054FE"
+  },
+  "backgroundColor": {
+    "text": "Background",
+    "type": "color",
+    "value": "#000000"
+  },
+"customGradiant": {
+    "text": "custom gradiant",
+    "type": "color",
+    "value": "#000000"
+  },
+  "square": {
+    "type": "checkbox",
+    "value": true,
+    "text": "Square"
+  }
+}
