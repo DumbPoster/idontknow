@@ -2,3 +2,11 @@ THIS IS NOT MINE
 credit
 download at https://github.com/rocksdanister/audio-visualizer-wallpaper
 Author Dabjulmaros
+
+to add this to livley follow these steps
+
+either download all 7 files and put them in a folder
+or download the zip file and unzip it
+
+take that folder and move it to in my case C:\Users\NAME\AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers
+and then open up the livley app and it should be there
