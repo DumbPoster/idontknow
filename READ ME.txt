@@ -10,3 +10,11 @@ or download the zip file and unzip it
 
 take that folder and move it to in my case C:\Users\NAME\AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers
 and then open up the livley app and it should be there
+
+further customization options in the js file if you want to tinker
+
+let glob = { bloom: true, bloomRadius: 10 }; //customize the bloom change true to false to turn it off
+  max_height = window.innerHeight * 0.75; //set 1 for full screen
+  startPos = window.innerWidth * 0.005; //set 0 for full screen
+  vizWidth = window.innerWidth * 0.99; //set 1 for full screen
+  midY = canvas.height - (canvas.height /22); //replace the math in the parentheses with '0' if you aren't using the windows taskbar
