@@ -8,6 +8,7 @@ added bloom slider
 added custom gradient
 moved the vizualizer to the bottom of screen
 made the vizualizer taller and wider
+removed trailing ends of the visualizer
 
 
 to add this to livley follow these steps
